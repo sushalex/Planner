@@ -4,7 +4,7 @@ namespace Planner.Data
 {
   public class WeatherForecast
   {
-        //public string Name { get; set; }
+    //Aleksandr comment
     public DateTime Date { get; set; }
 
     public int TemperatureC { get; set; }
