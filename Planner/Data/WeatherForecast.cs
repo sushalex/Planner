@@ -1,9 +1,11 @@
-using System;
+﻿using System;
 
 namespace Planner.Data
 {
   public class WeatherForecast
   {
+    //погодные значения
+        
     public DateTime Date { get; set; }
 
     public int TemperatureC { get; set; }
