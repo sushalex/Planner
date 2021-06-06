@@ -4,7 +4,6 @@ namespace Planner.Data
 {
   public class WeatherForecast
   {
-    //погодные значения
         
     public DateTime Date { get; set; }
 
