@@ -4,6 +4,8 @@ namespace Planner.Data
 {
   public class WeatherForecast
   {
+
+  //Helllo world
         
     public DateTime Date { get; set; }
 
